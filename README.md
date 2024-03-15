@@ -27,3 +27,7 @@ This is a simple memory card game built using HTML, CSS, and JavaScript. The gam
 ## Demo
 
 ![Demo](./demo/Memory-Card-Game.gif)
+
+
+
+Enjoy the challenge of Memory Card Game! 🎮🍏🍊
